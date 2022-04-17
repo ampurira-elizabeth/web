@@ -1,0 +1,300 @@
+body{  
+    background-color:rgb(236, 248, 248);
+}
+section{
+    background-color: rgb(193, 240, 243);
+}
+
+.p1{
+    display: inline-flex;
+    text-decoration: none;
+}
+.p1 nav ul{
+    padding-left: 700px;
+     margin: 30px;
+}
+.p1{
+    color: black;
+    font-family: sans-serif;
+    display: inline-flex;
+    background-color: rgb(213, 241, 238);
+}
+.p1 nav a{
+    
+    display: inline;
+}
+.p2{
+    color: chocolate;
+}
+ .wrap nav a{ 
+    margin-right: 50px;
+    text-align: end;
+    text-decoration: solid;
+
+}
+.pge1{
+    text-align: left;
+    font-size: 15px;
+    margin-top: 50px;
+}
+.pge1 p{
+    float: left;
+}
+.pge1 h2{
+    font-family: sans-serif;
+    font-size: 50px;
+}
+ .pge1 button{
+    margin-top: 100px;
+    padding-right: 100px;
+    margin-right: -10px;
+    background-color: rgb(99, 190, 190);
+    border: none;
+    color: aliceblue;
+    content: right;
+}  
+.imge img{
+margin-right: 100%;
+border-width:none;
+border-radius: none;
+width: 550px;
+height: 300px;
+}
+
+.services{
+    padding: 100px;
+    margin: 100px;
+    display: inline-flex;
+}
+.text{
+    padding: 30px;
+    margin: 100px;
+    background-color:white; 
+
+}
+.text1{
+    padding: 30px;
+    margin: 100px;
+    background-color:white; 
+}
+ .text2{
+     padding: 30px;
+     margin: 100px;
+     background-color:white;
+ }
+ .sev1{
+    display: inline-flex;
+    font-family: sans-serif;
+ }
+ .text3{
+     padding: 30px;
+     margin: 100px;
+     background-color: white;
+ }
+ .text4{
+     padding: 30px;
+     margin: 100px;
+     background-color:white;
+ }
+ .text5{
+     padding: 30px;
+     margin: 100px;
+     background-color: white;
+ }
+ .text6 i{
+     text-shadow: red;
+ }
+  .sev2{
+     display: inline-flex;
+     font-family: sans-serif;
+     padding-top: 10px;
+     padding-bottom: 10px;
+ }
+ .imge{
+     margin-left: 60%;
+     border-radius: 50%;
+     position: absolute;
+     height: 50%;
+     width: 30%;
+     margin-left: 60%;
+     margin-top: -10px;
+     border: 45px solid rgb(236, 243, 245);   
+     padding-top: -10px; 
+ }
+ .imge img{
+     height: 270px;
+     width: 370px;
+ }  
+ .services{
+     padding: 30px;
+     margin: 70px;
+     display: inline-flex;
+     padding-bottom: 10px;
+ }
+ .service h2{
+     font-size: 30px;
+ }
+ .services p{
+     padding-left: 470px;
+ }
+ .patient{
+     padding: 30px;
+     margin-top: 100px;
+     display: inline-flex;
+     font-family: sans-serif;
+     padding-top: -10px;
+ }
+ .patient h3{
+      font-size: 35px; 
+      font-family: sans-serif;
+ } 
+ .patient p{
+     padding-left: 500px;
+     font-family:sans-serif;
+ } 
+ .doc1{
+     padding: 30px;
+     margin: 100px;
+     background-color: rgb(220, 247, 247);
+ }
+ .doc2{
+     padding: 30px;
+     margin: 100px;
+     background-color: rgb(247, 252, 252);
+ }
+ .doc3{
+     padding: 30px;
+     margin: 100px;
+     background-color: rgb(233, 220, 224);
+ }
+ .doc3 div{
+     background-color: none;
+     padding-right: 60px;
+   }
+ .images{
+     display: inline-flex;
+     font-family: sans-serif;
+ } 
+
+ .emo{
+   
+     padding: 30px;
+     margin: 70px;
+     background-color: rgb(227, 241, 241);
+ } 
+
+.information{
+    padding: 30px;
+    margin: 70px;
+}
+.information h3{
+    font-size: 30px;
+}
+.information button::after{
+    background-color: rgb(6, 41, 48);
+}
+.phone{
+    display: inline-flex;
+    background-color:paleturquoise;
+    font-family: sans-serif;
+ }
+ .mission{
+     padding-left: 100px;
+     margin: 70px;
+     background-color:azure ;
+     background-size: cover;
+ }
+ .mission i{
+     color:rgb(128, 229, 233);
+ }
+ .staff{
+     padding-right: 100px;
+     margin: 70px;
+     background-color:azure;
+     background-size: 1000px;
+     
+ }
+ .staff i{
+    color: rgb(97, 224, 233);
+ }
+ .thanks{
+     display: inline-flex;
+     padding-bottom: 40px;
+     font-family: sans-serif;
+     padding-top: 20px;
+    
+ }
+ .first{
+     padding: 30px;
+     margin: 70px;
+ }
+ .first i{
+     background-color: blue;
+ }
+ .second{
+     padding: 30px;
+     margin: 70px;
+ }
+ .second i{
+     background-color: red;
+ }
+ .third{
+     padding: 30px;
+     margin: 70px;
+ }
+ .third i{
+     background-color: brown;
+ }
+ .fourth{
+    padding: 30px;
+    margin: 100px;
+ }
+ .footer{
+     display: inline-flex;
+     font-family: sans-serif;
+     
+ }
+
+ .subscribe{
+     padding: 40px;
+     background-color:rgb(193, 247, 239);
+     align-content: center;
+     font-size: 25px;
+     width: 700px;
+     height: 200px;
+     margin-bottom: 100px;
+     margin-left: 14%;
+     text-align: center;
+     font-family: sans-serif;
+     border-radius: 10px;
+ }
+ .email{
+     margin-top: 10px;
+     margin-bottom: 50px;
+     padding: 30px;
+     background-color: rgb(245, 252, 252);
+     text-align: left;
+    font-family: sans-serif;
+    }
+    .email button{
+        background: rgb(15, 70, 65);
+        color: white;
+        padding-left: 100px;
+    }
+    .email input{
+        margin-top: 30px;
+        padding-right:100px ;
+    }
+ 
+ h1{
+     font-size: 35px;
+     font-family: sans-serif;
+ }
+.Doctors h6{
+    text-align: right;
+    padding-right: 60px;
+}
+.patient h6{
+padding-top: 100px;
+padding-right: 60px;
+}
