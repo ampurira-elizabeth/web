@@ -1,300 +1,521 @@
-body{  
-    background-color:rgb(236, 248, 248);
-}
-section{
-    background-color: rgb(193, 240, 243);
+body {
+    background-color: azure;
+
 }
 
-.p1{
-    display: inline-flex;
+.mission h6 {
+    display: flex;
+}
+
+.p1 p {
+    padding-left: 20PX;
+}
+
+.p1 nav ul {
+    padding-left: 700px;
+    margin: 30px;
+}
+
+a {
     text-decoration: none;
 }
-.p1 nav ul{
-    padding-left: 700px;
-     margin: 30px;
-}
-.p1{
+
+.p1 {
     color: black;
     font-family: sans-serif;
     display: inline-flex;
     background-color: rgb(213, 241, 238);
 }
-.p1 nav a{
-    
-    display: inline;
+
+
+section {
+    background-color: rgb(193, 240, 243);
 }
-.p2{
+
+.p2 {
     color: chocolate;
 }
- .wrap nav a{ 
+
+.p2 p {
+    padding-left: 20PX;
+}
+
+.wrap nav a {
     margin-right: 50px;
     text-align: end;
     text-decoration: solid;
 
 }
-.pge1{
+
+.pge1 {
     text-align: left;
     font-size: 15px;
     margin-top: 50px;
+    padding-left: 30PX;
 }
-.pge1 p{
-    float: left;
+
+.pge1 p {
+    color: rgb(120, 120, 156);
 }
-.pge1 h2{
+
+.pge1 i {
+    border-radius: 500px;
+    background-color: rgb(243, 243, 250);
+
+}
+
+.pge1 h2 {
     font-family: sans-serif;
     font-size: 50px;
 }
- .pge1 button{
+
+.pge1 button {
     margin-top: 100px;
-    padding-right: 100px;
-    margin-right: -10px;
     background-color: rgb(99, 190, 190);
+    border-radius: 20px;
     border: none;
-    color: aliceblue;
-    content: right;
-}  
-.imge img{
-margin-right: 100%;
-border-width:none;
-border-radius: none;
-width: 550px;
-height: 300px;
+    color: white;
+    padding-left: 20PX;
+
 }
 
-.services{
+.imge img {
+    margin-right: 100%;
+    border-width: none;
+    border-radius: none;
+    width: 550px;
+    height: 200px;
+}
+
+.emo img {
+    background-color: rgb(186, 186, 190);
+}
+
+.services {
     padding: 100px;
     margin: 100px;
     display: inline-flex;
 }
-.text{
-    padding: 30px;
-    margin: 100px;
-    background-color:white; 
 
-}
-.text1{
+.text {
     padding: 30px;
     margin: 100px;
-    background-color:white; 
+    background-color: white;
 }
- .text2{
-     padding: 30px;
-     margin: 100px;
-     background-color:white;
- }
- .sev1{
+
+
+.text i {
+    color: aqua;
+}
+
+.text1 {
+    padding: 30px;
+    margin: 100px;
+    background-color: white;
+}
+
+.text1 i {
+    color: aqua;
+}
+
+.text2 {
+    padding: 30px;
+    margin: 100px;
+    background-color: white;
+}
+
+.text2 i {
+    color: aqua;
+}
+
+.sev1 {
     display: inline-flex;
     font-family: sans-serif;
- }
- .text3{
-     padding: 30px;
-     margin: 100px;
-     background-color: white;
- }
- .text4{
-     padding: 30px;
-     margin: 100px;
-     background-color:white;
- }
- .text5{
-     padding: 30px;
-     margin: 100px;
-     background-color: white;
- }
- .text6 i{
-     text-shadow: red;
- }
-  .sev2{
-     display: inline-flex;
-     font-family: sans-serif;
-     padding-top: 10px;
-     padding-bottom: 10px;
- }
- .imge{
-     margin-left: 60%;
-     border-radius: 50%;
-     position: absolute;
-     height: 50%;
-     width: 30%;
-     margin-left: 60%;
-     margin-top: -10px;
-     border: 45px solid rgb(236, 243, 245);   
-     padding-top: -10px; 
- }
- .imge img{
-     height: 270px;
-     width: 370px;
- }  
- .services{
-     padding: 30px;
-     margin: 70px;
-     display: inline-flex;
-     padding-bottom: 10px;
- }
- .service h2{
-     font-size: 30px;
- }
- .services p{
-     padding-left: 470px;
- }
- .patient{
-     padding: 30px;
-     margin-top: 100px;
-     display: inline-flex;
-     font-family: sans-serif;
-     padding-top: -10px;
- }
- .patient h3{
-      font-size: 35px; 
-      font-family: sans-serif;
- } 
- .patient p{
-     padding-left: 500px;
-     font-family:sans-serif;
- } 
- .doc1{
-     padding: 30px;
-     margin: 100px;
-     background-color: rgb(220, 247, 247);
- }
- .doc2{
-     padding: 30px;
-     margin: 100px;
-     background-color: rgb(247, 252, 252);
- }
- .doc3{
-     padding: 30px;
-     margin: 100px;
-     background-color: rgb(233, 220, 224);
- }
- .doc3 div{
-     background-color: none;
-     padding-right: 60px;
-   }
- .images{
-     display: inline-flex;
-     font-family: sans-serif;
- } 
+}
 
- .emo{
-   
-     padding: 30px;
-     margin: 70px;
-     background-color: rgb(227, 241, 241);
- } 
+.sev1 p {
+    color: rgb(120, 120, 156);
+}
 
-.information{
+.text3 {
+    padding: 30px;
+    margin: 100px;
+    background-color: white;
+}
+
+.text3 i {
+    color: aqua;
+}
+
+.text4 {
+    padding: 30px;
+    margin: 100px;
+    background-color: white;
+}
+
+.text4 i {
+    color: aqua;
+}
+
+.text5 {
+    padding: 30px;
+    margin: 100px;
+    background-color: white;
+}
+
+.text5 i {
+    color: aqua;
+}
+
+.sev2 {
+    display: inline-flex;
+    font-family: sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.sev2 p {
+    color: rgb(120, 120, 156);
+}
+
+.imge {
+    margin-left: 60%;
+    border-radius: 50%;
+    position: absolute;
+    height: 50%;
+    width: 30%;
+    margin-left: 60%;
+    margin-top: -10px;
+    border: 45px solid rgb(236, 243, 245);
+    padding-top: -10px;
+}
+
+.staff img {
+    border-radius: 90px;
+    padding-left: 10px;
+}
+
+.mission img {
+    border-radius: 90px;
+}
+
+.imge img {
+    height: 270px;
+    width: 370px;
+}
+
+.pic {
+    display: flex;
+}
+
+.pc {
+    display: flex;
+}
+
+.services {
+    padding: 30px;
+    margin: 70px;
+    display: inline-flex;
+    padding-bottom: 10px;
+}
+
+.service h2 {
+    font-size: 30px;
+}
+
+.services p {
+    padding-left: 470px;
+    color: rgb(120, 120, 156);
+}
+
+.patient {
+    padding: 30px;
+    margin-top: 100px;
+    display: inline-flex;
+    font-family: sans-serif;
+    padding-top: -10px;
+}
+
+.patient h3 {
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+.patient p {
+    padding-left: 500px;
+    font-family: sans-serif;
+    color: rgb(120, 120, 156);
+}
+
+.doc1 {
+    padding: 30px;
+    margin: 100px;
+    background-color: rgb(220, 247, 247);
+}
+
+.doc1 p {
+    color: rgb(120, 120, 156);
+
+}
+
+.doc2 {
+    padding: 30px;
+    margin: 100px;
+    background-color: rgb(247, 252, 252);
+}
+
+.doc2 p {
+    color: rgb(120, 120, 156);
+}
+
+.doc3 {
+    padding: 30px;
+    margin: 100px;
+    background-color: rgb(233, 220, 224);
+}
+
+.doc3 p {
+    color: rgb(120, 120, 156);
+}
+
+.doc3 div {
+    background-color: none;
+    padding-right: 60px;
+}
+
+.images {
+    display: inline-flex;
+    font-family: sans-serif;
+}
+
+.emo img {
+    width: 380px;
+    padding: 30px;
+    margin: 90px;
+    background-color: rgb(175, 184, 184);
+}
+
+.information {
     padding: 30px;
     margin: 70px;
 }
-.information h3{
+
+.information h3 {
     font-size: 30px;
 }
-.information button::after{
-    background-color: rgb(6, 41, 48);
+
+.information button {
+    background-color: #6689ca;
+    border-radius: 15px;
+    border: none;
+
+
 }
-.phone{
+
+.phone {
     display: inline-flex;
-    background-color:paleturquoise;
+    background-color: paleturquoise;
     font-family: sans-serif;
- }
- .mission{
-     padding-left: 100px;
-     margin: 70px;
-     background-color:azure ;
-     background-size: cover;
- }
- .mission i{
-     color:rgb(128, 229, 233);
- }
- .staff{
-     padding-right: 100px;
-     margin: 70px;
-     background-color:azure;
-     background-size: 1000px;
-     
- }
- .staff i{
-    color: rgb(97, 224, 233);
- }
- .thanks{
-     display: inline-flex;
-     padding-bottom: 40px;
-     font-family: sans-serif;
-     padding-top: 20px;
-    
- }
- .first{
-     padding: 30px;
-     margin: 70px;
- }
- .first i{
-     background-color: blue;
- }
- .second{
-     padding: 30px;
-     margin: 70px;
- }
- .second i{
-     background-color: red;
- }
- .third{
-     padding: 30px;
-     margin: 70px;
- }
- .third i{
-     background-color: brown;
- }
- .fourth{
+}
+
+.phone p {
+    color: rgb(120, 120, 156);
+}
+
+.mission {
+    padding-left: 100px;
+    margin: 70px;
+    background-color: white;
+    background-size: cover;
+
+}
+
+.str {
+    color: rgb(231, 215, 66);
+
+}
+
+.mission p {
+    color: rgb(120, 120, 156);
+}
+
+.mission nav {
+    color: rgb(196, 253, 253);
+}
+
+.mission h6 {
+    color: rgb(120, 120, 156);
+
+}
+
+.staff {
+
+    padding-left: 100px;
+    margin: 70px;
+    background-color: white;
+    background-size: cover;
+
+}
+
+.staff h6 {
+    color: rgb(120, 120, 156);
+}
+
+.staff p {
+    color: rgb(120, 120, 156);
+}
+
+.star {
+    color: rgb(240, 209, 74);
+
+}
+
+.staff nav {
+    color: rgb(186, 247, 247);
+}
+
+.thanks {
+    display: inline-flex;
+    padding-bottom: 40px;
+    font-family: sans-serif;
+    padding-top: 20px;
+
+}
+
+.first {
+    padding: 30px;
+    margin: 70px;
+}
+
+.first p {
+    color: rgb(173, 173, 201);
+}
+
+.first i {
+    height: 20px;
+    width: 20px;
+}
+
+#fb {
+    background-color: rgb(43, 43, 245);
+    border-radius: 10px;
+}
+
+#twt {
+    background-color: rgb(106, 106, 194);
+    border-radius: 10px;
+}
+
+#gle {
+    background-color: rgb(236, 107, 22);
+    border-radius: 10px;
+}
+
+#lnk {
+    background-color: rgb(13, 13, 143);
+    border-radius: 10px;
+}
+
+.second {
+    padding: 30px;
+    margin: 70px;
+}
+
+.second p {
+    color: rgb(120, 120, 156);
+}
+
+.second i {
+    background-color: red;
+}
+
+.third {
+    padding: 30px;
+    margin: 70px;
+}
+
+.third p {
+    color: rgb(120, 120, 156);
+}
+
+.third i {
+    background-color: brown;
+}
+
+.fourth {
     padding: 30px;
     margin: 100px;
- }
- .footer{
-     display: inline-flex;
-     font-family: sans-serif;
-     
- }
+}
 
- .subscribe{
-     padding: 40px;
-     background-color:rgb(193, 247, 239);
-     align-content: center;
-     font-size: 25px;
-     width: 700px;
-     height: 200px;
-     margin-bottom: 100px;
-     margin-left: 14%;
-     text-align: center;
-     font-family: sans-serif;
-     border-radius: 10px;
- }
- .email{
-     margin-top: 10px;
-     margin-bottom: 50px;
-     padding: 30px;
-     background-color: rgb(245, 252, 252);
-     text-align: left;
+.fourth p {
+    color: rgb(120, 120, 156);
+}
+
+.footer {
+    display: inline-flex;
     font-family: sans-serif;
-    }
-    .email button{
-        background: rgb(15, 70, 65);
-        color: white;
-        padding-left: 100px;
-    }
-    .email input{
-        margin-top: 30px;
-        padding-right:100px ;
-    }
- 
- h1{
-     font-size: 35px;
-     font-family: sans-serif;
- }
-.Doctors h6{
+
+}
+
+.subscribe {
+    padding: 40px;
+    background-color: rgb(193, 247, 239);
+    align-content: center;
+    font-size: 25px;
+    width: 700px;
+    height: 200px;
+    margin-bottom: 100px;
+    margin-left: 14%;
+    text-align: center;
+    font-family: sans-serif;
+    border-radius: 10px;
+}
+
+
+.email {
+    margin-top: 10px;
+    margin-bottom: 50px;
+    padding: 30px;
+    background-color: rgb(245, 252, 252);
+    text-align: left;
+    font-family: sans-serif;
+}
+
+.email button {
+    background: rgb(99, 97, 218);
+    color: white;
+    padding-left: 50px;
+    border-radius: 15px;
+    border: none;
+}
+
+.email input {
+    margin-top: 30px;
+    padding-right: 100px;
+}
+
+h1 {
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+.Doctors h6 {
     text-align: right;
     padding-right: 60px;
+    color: rgb(120, 120, 156);
 }
-.patient h6{
-padding-top: 100px;
-padding-right: 60px;
+
+.patient h6 {
+    padding-top: 100px;
+    padding-right: 60px;
+    display: flex;
+    color: rgb(120, 120, 156);
+}
+
+#utube {
+    color: rgb(40, 74, 226);
+    width: 30px;
+    height: 30px;
+    padding-top: 18px;
+    padding-left: 10px;
 }
