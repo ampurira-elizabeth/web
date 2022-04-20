@@ -1,6 +1,6 @@
 body {
     background-color: azure;
-
+   
 }
 
 .mission h6 {
@@ -13,35 +13,37 @@ body {
 
 .p1 nav ul {
     padding-left: 700px;
-    margin: 30px;
+  
 }
 
 a {
     text-decoration: none;
+    padding-right: 40px;
 }
 
 .p1 {
     color: black;
     font-family: sans-serif;
     display: inline-flex;
-    background-color: rgb(213, 241, 238);
 }
 
-
 section {
-    background-color: rgb(193, 240, 243);
+    background-color: rgb(222, 245, 245);
+    height: 520px;
 }
 
 .p2 {
     color: chocolate;
+  
 }
+
 
 .p2 p {
     padding-left: 20PX;
 }
 
 .wrap nav a {
-    margin-right: 50px;
+   
     text-align: end;
     text-decoration: solid;
 
@@ -50,7 +52,7 @@ section {
 .pge1 {
     text-align: left;
     font-size: 15px;
-    margin-top: 50px;
+   
     padding-left: 30PX;
 }
 
@@ -70,62 +72,67 @@ section {
 }
 
 .pge1 button {
-    margin-top: 100px;
+    margin-top: 50px;
     background-color: rgb(99, 190, 190);
     border-radius: 20px;
     border: none;
     color: white;
-    padding-left: 20PX;
+    padding-left: 10PX;
+    margin-left:60px ;
 
 }
 
 .imge img {
-    margin-right: 100%;
-    border-width: none;
-    border-radius: none;
     width: 550px;
     height: 200px;
+    
 }
 
 .emo img {
-    background-color: rgb(186, 186, 190);
+    background-color: rgb(220, 220, 231);
 }
 
 .services {
     padding: 100px;
-    margin: 100px;
+    
     display: inline-flex;
 }
 
 .text {
     padding: 30px;
-    margin: 100px;
+     margin: 100px; 
     background-color: white;
 }
 
 
 .text i {
-    color: aqua;
+    color: rgb(9, 117, 117);
+    border:solid #d0f1f1 15px;
+    border-radius: 20px;
 }
 
 .text1 {
     padding: 30px;
-    margin: 100px;
+     margin: 100px; 
     background-color: white;
 }
 
 .text1 i {
-    color: aqua;
+    color: rgb(9, 117, 117);
+    border:solid #d0f1f1 15px;
+    border-radius: 20px;
 }
 
 .text2 {
     padding: 30px;
-    margin: 100px;
+     margin: 100px; 
     background-color: white;
 }
 
 .text2 i {
-    color: aqua;
+    color: rgb(9, 117, 117);
+    border:solid #d0f1f1 15px;
+    border-radius: 20px;
 }
 
 .sev1 {
@@ -139,32 +146,41 @@ section {
 
 .text3 {
     padding: 30px;
-    margin: 100px;
+     margin: 100px; 
     background-color: white;
 }
 
 .text3 i {
-    color: aqua;
+    color: rgb(9, 117, 117);
+   border:solid #d0f1f1 15px;
+   border-radius: 20px;
 }
 
 .text4 {
     padding: 30px;
-    margin: 100px;
+     margin: 100px; 
     background-color: white;
 }
 
 .text4 i {
-    color: aqua;
+    color: rgb(9, 117, 117);
+    border:solid #d0f1f1 15px;
+    border-radius: 20px;
 }
 
 .text5 {
     padding: 30px;
-    margin: 100px;
+     margin: 100px; 
     background-color: white;
 }
 
 .text5 i {
-    color: aqua;
+    color: rgb(9, 117, 117);
+    border:solid #d0f1f1 15px;
+    border-radius: 20px;
+}
+span{
+  color: orange;
 }
 
 .sev2 {
@@ -178,6 +194,7 @@ section {
     color: rgb(120, 120, 156);
 }
 
+
 .imge {
     margin-left: 60%;
     border-radius: 50%;
@@ -186,35 +203,48 @@ section {
     width: 30%;
     margin-left: 60%;
     margin-top: -10px;
-    border: 45px solid rgb(236, 243, 245);
-    padding-top: -10px;
+    border: 45px solid rgb(210, 226, 233);
+   
 }
 
 .staff img {
-    border-radius: 90px;
     padding-left: 10px;
+    background-color: #6689ca;
+    border-radius: 300px;
+    width: 10%;
+    height: 7%;
 }
 
+
 .mission img {
-    border-radius: 90px;
+    border-radius: 300px;
+    width: 10%;
+    height: 4%;
+    background-color: #6689ca;
 }
 
 .imge img {
-    height: 270px;
+    height: 300px;
     width: 370px;
 }
 
 .pic {
     display: flex;
 }
+.pic h5{
+    padding-left: 10%;
+}
 
 .pc {
     display: flex;
 }
+.pc h5{
+    padding-left: 10%
+}
 
 .services {
     padding: 30px;
-    margin: 70px;
+   
     display: inline-flex;
     padding-bottom: 10px;
 }
@@ -248,9 +278,12 @@ section {
 }
 
 .doc1 {
-    padding: 30px;
-    margin: 100px;
-    background-color: rgb(220, 247, 247);
+    border-radius: 20px;
+    margin-left: 60px; 
+    padding-left: 30px;
+    width: 180px;
+    height: 430px;
+    background-color: rgb(240, 235, 226);
 }
 
 .doc1 p {
@@ -259,9 +292,12 @@ section {
 }
 
 .doc2 {
-    padding: 30px;
-    margin: 100px;
-    background-color: rgb(247, 252, 252);
+    border-radius: 20px;
+    margin-left: 200px; 
+    padding-left: 30px;
+    width: 190px;
+    height: 430px;
+    background-color: rgb(222, 247, 247);
 }
 
 .doc2 p {
@@ -269,9 +305,12 @@ section {
 }
 
 .doc3 {
-    padding: 30px;
-    margin: 100px;
-    background-color: rgb(233, 220, 224);
+    border-radius: 20px;
+     margin-left: 300px; 
+     padding: 30px; 
+     width: 180px;
+     height: 390px;
+    background-color: rgb(247, 236, 221);
 }
 
 .doc3 p {
@@ -290,18 +329,22 @@ section {
 
 .emo img {
     width: 380px;
-    padding: 30px;
-    margin: 90px;
-    background-color: rgb(175, 184, 184);
+   margin-left: 70px;
+   margin-top: 30px;
+    padding: 70px;
+    height: 380px;
+    background-color: rgb(190, 196, 196);
+    border-radius: 20px;
 }
 
 .information {
-    padding: 30px;
-    margin: 70px;
+     padding: 30px; 
+     margin-left: 300px; 
 }
 
 .information h3 {
-    font-size: 30px;
+    font-size: 30px; 
+    
 }
 
 .information button {
@@ -314,7 +357,7 @@ section {
 
 .phone {
     display: inline-flex;
-    background-color: paleturquoise;
+    background-color: rgb(213, 247, 247);
     font-family: sans-serif;
 }
 
@@ -324,7 +367,7 @@ section {
 
 .mission {
     padding-left: 100px;
-    margin: 70px;
+      margin: 70px;  
     background-color: white;
     background-size: cover;
 
@@ -332,6 +375,7 @@ section {
 
 .str {
     color: rgb(231, 215, 66);
+    margin-top: 40px; 
 
 }
 
@@ -339,26 +383,31 @@ section {
     color: rgb(120, 120, 156);
 }
 
-.mission nav {
-    color: rgb(196, 253, 253);
+.mission nav{
+    color: rgb(228, 250, 250);
+    font-size: 70px;
 }
 
 .mission h6 {
     color: rgb(120, 120, 156);
+    padding-left: 20%;
+    
 
 }
 
 .staff {
 
     padding-left: 100px;
-    margin: 70px;
+     margin: 70px; 
     background-color: white;
     background-size: cover;
+
 
 }
 
 .staff h6 {
     color: rgb(120, 120, 156);
+    padding-left: 25%;
 }
 
 .staff p {
@@ -367,11 +416,13 @@ section {
 
 .star {
     color: rgb(240, 209, 74);
+     margin-top: 40px; 
 
 }
 
 .staff nav {
-    color: rgb(186, 247, 247);
+    color: rgb(230, 253, 253);
+    font-size: 70px;
 }
 
 .thanks {
@@ -384,7 +435,7 @@ section {
 
 .first {
     padding: 30px;
-    margin: 70px;
+     margin: 70px; 
 }
 
 .first p {
@@ -418,7 +469,7 @@ section {
 
 .second {
     padding: 30px;
-    margin: 70px;
+     margin: 70px; 
 }
 
 .second p {
@@ -431,8 +482,9 @@ section {
 
 .third {
     padding: 30px;
-    margin: 70px;
+     margin: 70px; 
 }
+
 
 .third p {
     color: rgb(120, 120, 156);
@@ -444,7 +496,8 @@ section {
 
 .fourth {
     padding: 30px;
-    margin: 100px;
+      margin-top: 70px;
+
 }
 
 .fourth p {
@@ -459,12 +512,12 @@ section {
 
 .subscribe {
     padding: 40px;
-    background-color: rgb(193, 247, 239);
+    background-color: rgb(220, 253, 248);
     align-content: center;
     font-size: 25px;
     width: 700px;
     height: 200px;
-    margin-bottom: 100px;
+    margin-top: 100px;
     margin-left: 14%;
     text-align: center;
     font-family: sans-serif;
@@ -491,7 +544,7 @@ section {
 
 .email input {
     margin-top: 30px;
-    padding-right: 100px;
+    padding-right: 200px;
 }
 
 h1 {
@@ -514,8 +567,10 @@ h1 {
 
 #utube {
     color: rgb(40, 74, 226);
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
     padding-top: 18px;
-    padding-left: 10px;
+    padding-left: 20px;
+    margin-left:60px ;
+   
 }
