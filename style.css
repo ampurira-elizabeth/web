@@ -99,38 +99,38 @@ section {
     display: inline-flex;
 }
 
-.text {
+.svc {
     padding: 30px;
     margin: 100px;
     background-color: white;
 }
 
 
-.text i {
+.svc i {
     color: rgb(9, 117, 117);
     border: solid #d0f1f1 15px;
     border-radius: 20px;
 }
 
-.text1 {
+.svc1 {
     padding: 30px;
     margin: 100px;
     background-color: white;
 }
 
-.text1 i {
+.svc1 i {
     color: rgb(9, 117, 117);
     border: solid #d0f1f1 15px;
     border-radius: 20px;
 }
 
-.text2 {
+.svc2 {
     padding: 30px;
     margin: 100px;
     background-color: white;
 }
 
-.text2 i {
+.svc2 i {
     color: rgb(9, 117, 117);
     border: solid #d0f1f1 15px;
     border-radius: 20px;
@@ -145,37 +145,37 @@ section {
     color: rgb(120, 120, 156);
 }
 
-.text3 {
+.svc3 {
     padding: 30px;
     margin: 100px;
     background-color: white;
 }
 
-.text3 i {
+.svc3 i {
     color: rgb(9, 117, 117);
     border: solid #d0f1f1 15px;
     border-radius: 20px;
 }
 
-.text4 {
+.svc4 {
     padding: 30px;
     margin: 100px;
     background-color: white;
 }
 
-.text4 i {
+.svc4 i {
     color: rgb(9, 117, 117);
     border: solid #d0f1f1 15px;
     border-radius: 20px;
 }
 
-.text5 {
+.svc5 {
     padding: 30px;
     margin: 100px;
     background-color: white;
 }
 
-.text5 i {
+.svc5 i {
     color: rgb(9, 117, 117);
     border: solid #d0f1f1 15px;
     border-radius: 20px;
@@ -522,6 +522,7 @@ span {
     text-align: center;
     font-family: sans-serif;
     border-radius: 10px;
+    
 }
 
 
